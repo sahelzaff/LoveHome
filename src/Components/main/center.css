@@ -1,0 +1,72 @@
+.Container {
+    padding-left: 50px; 
+  }
+  
+  .heading h2 {
+    font-family: Outfit;
+    font-size: 90px;
+    margin-right: 32%; 
+    margin-top: 40px;
+  }
+  
+  .prop-p2{
+    font-family: Outfit;
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 8%;
+  }
+
+  .prop-head p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 22px;
+    margin-bottom: 15px; 
+  }
+  .dropdown-container{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+  }
+  
+  .select {
+    font-family: poppins;
+    font-size: 15px;
+    font-weight:500;
+    margin-bottom: 10px; 
+    padding: 15px 60px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #FFFEFE;
+  }
+  .select option{
+    text-align: center;
+  }
+  
+  .submit {
+    margin-top: 20px; 
+  }
+  
+  .quote-prop {
+    font-size: 0.9rem;
+    font-weight: 1000;
+    padding: 13px 20px;
+    margin-right:30px ;
+    background-color: #fff;
+    color: #333;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .quote-prop:hover{
+    background-color: #FF372E;
+    color: #f0f0f0;
+    border: 1px solid #ff382ec2;
+
+}
+  
+  .quote-prop img {
+    width: 20px; 
+    margin-left: 10px; 
+  }
+  

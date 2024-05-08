@@ -1,0 +1,14 @@
+
+.background {
+    scale:30%;
+    position: absolute;
+    top: 12%;
+    right: 0;
+    bottom: 150vw;
+    left: 0vw;
+    width: 117%;
+    background-size: cover;
+    background-position: center;
+    z-index: -1; 
+  }
+  
